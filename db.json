@@ -1,1 +1,17 @@
-
+{
+    "users": [
+       {
+        "id":1,
+        "name":"Alex",
+        "sername":"Udod",
+        "balance":"1500"
+       }
+    ],
+    "products":[
+        {
+        "product":"banan",
+        "price" : "2",
+        "quantity":"5"
+        }
+    ]
+}
